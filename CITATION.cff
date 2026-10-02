@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: If you use this dataset, please cite it as below and link to https://familyestateguide.com/estate-planning-data/probate-lawyer-gap-seniors-per-lawyer/
+type: dataset
+title: 'The Lawyer Gap for Seniors: Residents 65+ per Employed Lawyer by State and Metro/Nonmetro Area'
+abstract: Seniors (65+) per employed lawyer for 50 states + DC and 521 BLS metro and nonmetro areas, from BLS OEWS May 2025, Census Vintage 2025 population estimates and County Business Patterns 2023.
+authors:
+- name: Family Estate Guide
+  website: https://familyestateguide.com
+version: 1.0.0
+date-released: '2026-10-02'
+url: https://familyestateguide.com/estate-planning-data/probate-lawyer-gap-seniors-per-lawyer/
+repository-code: https://github.com/jameyriley46-ux/familyestateguide-probate-lawyer-gap-seniors-per-lawyer
+license: CC-BY-4.0
+keywords:
+- lawyers
+- access to justice
+- seniors
+- probate
+- estate planning
+- rural legal deserts
+- OEWS
+- County Business Patterns
+- state data
